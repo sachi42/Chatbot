@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain-core
+langchain-groq
+langchain-community
+transformers
